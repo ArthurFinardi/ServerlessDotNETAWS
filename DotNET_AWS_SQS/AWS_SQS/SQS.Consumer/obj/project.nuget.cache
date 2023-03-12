@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "418+FKfVDvhQkkP3ozNmFKA9+DurNsvfVggmYccEbpA2BAJBnZg5FWxgfyF8F10sSulrA1zQSpyvSa1L7bpPJA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Serverless\\DotNET_AWS_SQS\\AWS_SQS\\SQS.Consumer\\SQS.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthurfinardi\\.nuget\\packages\\awssdk.core\\3.7.105.17\\awssdk.core.3.7.105.17.nupkg.sha512",
+    "C:\\Users\\arthurfinardi\\.nuget\\packages\\awssdk.sqs\\3.7.100.88\\awssdk.sqs.3.7.100.88.nupkg.sha512"
+  ],
+  "logs": []
+}
